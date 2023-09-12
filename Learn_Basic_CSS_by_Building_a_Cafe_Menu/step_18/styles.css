@@ -1,0 +1,8 @@
+h1, h2, p {
+  text-align: center;
+}
+
+/* Add another style to the file that changes the background-color property to brown for the body element. */
+body {
+  background-color: brown;
+}

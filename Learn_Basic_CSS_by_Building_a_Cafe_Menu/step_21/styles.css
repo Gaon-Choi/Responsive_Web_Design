@@ -1,0 +1,13 @@
+body {
+  background-color: burlywood;
+}
+
+h1, h2, p {
+  text-align: center;
+}
+
+/* make the "div" not take up the entire width of the page */
+/* id ==> "#" */
+#menu {
+  width: 300px;
+}
