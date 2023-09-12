@@ -1,0 +1,15 @@
+body {
+  /*
+  background-color: burlywood;
+  */
+}
+
+h1, h2, p {
+  text-align: center;
+}
+
+#menu {
+  /* use the existing #menu selector to set the background color of the "div" element to be "burlywood" */
+  background-color: burlywood;
+  width: 300px;
+}

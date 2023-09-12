@@ -1,0 +1,15 @@
+body {
+  /*
+  background-color: burlywood;
+  */
+}
+
+h1, h2, p {
+  text-align: center;
+}
+
+#menu {
+  background-color: burlywood;
+  /* make it 80% the width of its parent element "body" */
+  width: 80%;
+}
