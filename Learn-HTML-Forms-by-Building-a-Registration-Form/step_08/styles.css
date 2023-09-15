@@ -1,0 +1,9 @@
+/*
+  vh : viewport height
+     : relative to 1% of the height of the viewpoint
+*/
+
+body {
+  width: 100%;
+  height: 100vh;
+}
