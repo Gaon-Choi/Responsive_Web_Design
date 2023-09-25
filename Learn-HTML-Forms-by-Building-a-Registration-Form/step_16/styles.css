@@ -1,0 +1,22 @@
+body {
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  background-color: #1b1b32;
+  color: #f5f6f7;
+}
+
+/*
+  rem : root "em"
+      : relative to the font size of the html element
+  label : inline by default
+        : all displayed side by side on the same line
+  
+  display: block -> appear on separate lines
+  margin=0.5rem 0 -> separate them from each other
+*/
+
+label {
+  display: block;
+  margin: 0.5rem 0;
+}
