@@ -1,0 +1,10 @@
+h1 {
+  text-align: center;
+}
+
+.marker {
+  background-color: red;
+  /* In your .marker CSS rule, set the height property to 25px and the width property to 200px */
+  height: 25px;
+  width: 200px;
+}

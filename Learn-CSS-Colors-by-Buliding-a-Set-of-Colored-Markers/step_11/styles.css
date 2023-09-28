@@ -1,0 +1,8 @@
+h1 {
+  text-align: center;
+}
+
+/* Create a new CSS rule that targets the class marker, and set its background-color property to red. */
+.marker {
+  background-color:red;
+}
